@@ -1,9 +1,8 @@
-// Main branch
-// This branch will be the bare bones of the next 2 programs
-//      One will be the RPS game and the grade book will be the other
-//      (2 branches in total)
+// RPS Branch
+// This Branch contains the entire Rock Paper Scissors Game thing
+// That's it
 // Greysen Roy-Pascoe
-// 1/29/25
+// 2/17/25
 
 #include <iostream>
 using namespace std;
